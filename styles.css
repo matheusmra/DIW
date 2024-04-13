@@ -1,4 +1,4 @@
-/* Perfil */
+/* Cabeçalho */
 * {
     padding: 0;
     margin: 0;
@@ -29,7 +29,7 @@ nav {
     color: #202020;
     text-decoration: none;
 }
-
+/* Perfil */
 .hr{
     color:#229afc
 }
