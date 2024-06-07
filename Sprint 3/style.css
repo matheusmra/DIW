@@ -1,0 +1,33 @@
+/* styles.css */
+
+/* Estilo para centralizar verticalmente o conteúdo */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7aa868; /* Cor de fundo (opcional) */
+}
+
+
+#msgs {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+    font-size: 40px;
+}
+
+.chat-container {
+    max-width: 1000px; /* Largura máxima do chat */
+    margin: 0 auto; /* Centraliza o chat horizontalmente */
+    padding: 50px; /* Espaçamento interno */
+    background-color: #A0A0A0; /* Cor de fundo (opcional) */
+}
+
+/* Estilo para o título "Comentários" */
+h1 {
+    text-align: center;
+    font-size: 60px; /* Centraliza o título horizontalmente */
+    margin-top: 0;
+}
