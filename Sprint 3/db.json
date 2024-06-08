@@ -25,6 +25,12 @@
         "receitaID": 1
       },
       {
+        "nome": "Soraya",
+        "texto": "Não gostei",
+        "id": 4,
+        "receitaID": 1
+      },
+      {
         "nome": "Gustavo",
         "texto": "Os ingredientes estão fora do meu orçamento",
         "id": 5,

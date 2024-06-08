@@ -23,6 +23,7 @@ body, html {
     margin: 0 auto; /* Centraliza o chat horizontalmente */
     padding: 50px; /* Espaçamento interno */
     background-color: #A0A0A0; /* Cor de fundo (opcional) */
+    border-radius: 50px;
 }
 
 /* Estilo para o título "Comentários" */
