@@ -85,4 +85,10 @@ nav {
     padding: 70px;
 
 }
+#repositorios{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Isso distribuirá os itens uniformemente */
+    gap: 20px; /* Espaçamento entre os cards */
+}
 
